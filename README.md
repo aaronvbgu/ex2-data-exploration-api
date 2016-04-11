@@ -90,6 +90,11 @@ Results
 ![Low Legend](ex2-api-low-legend.png)
 
 
+We can see that the stock value crashed about a year ago, from ~45$ to its lowest value ~20$ which is extremely low for a huge
+company such as Facebook.
+After this low point, it was pretty steady for about half a year (with a little growing), and after that, it had a huge jump,
+and the stock value started growing until nowadays, and almost reached 75$!. 
+However, we can see that in the last month it is falling a bit so I think it's not the best time to buy Facebook stocks.
 
 
 As I've mentioned in the beginning, the next step will be exploring and checking what events caused the numbers we've got,
